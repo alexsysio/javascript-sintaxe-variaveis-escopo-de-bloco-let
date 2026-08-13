@@ -1,10 +1,6 @@
-### A palavra-chave let foi introduzida no ES6 (2015) 
 ### Variáveis declaradas com let possuem Escopo de Bloco 
 ### Variáveis declaradas com let devem ser Declaradas antes do uso 
 ### Variáveis declaradas com let não podem ser Redeclaradas no mesmo escopo 
-### Escopo de Bloco
-### Antes do ES6 (2015), o JavaScript não possuía Escopo de Bloco.
-### JavaScript tinha Escopo Global e Escopo de Função.
 ### O ES6 introduziu as duas novas palavras-chave let e const no JavaScript: 
 ### Essas duas palavras-chave forneceram o Escopo de Bloco em JavaScript:
 ### Variáveis declaradas dentro de um bloco { } não podem ser acessadas De fora do quarteirão:
